@@ -1,5 +1,2 @@
 # digitalFilter
 
-abd
-sss
-ss
